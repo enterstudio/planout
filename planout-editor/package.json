@@ -6,7 +6,7 @@
   "dependencies": {
     "es6-promise": ">=0.1.1",
     "underscore": "~1.6.0",
-    "codemirror": "~4.4.0",
+    "codemirror": "~5.58.2",
     "flux": "^2.0.0",
     "keymirror": "~0.1.0",
     "object-assign": "^1.0.0",
